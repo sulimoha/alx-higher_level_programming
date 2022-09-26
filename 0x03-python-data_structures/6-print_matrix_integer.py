@@ -3,7 +3,7 @@ def print_matrix_integer(matrix=[[]]):
     for row in matrix:
         noSpace = True
         for column in row:
-            if noSpace == False:
+            if noSpace is False:
                 print(" ", end="")
             else:
                 noSpace = False
