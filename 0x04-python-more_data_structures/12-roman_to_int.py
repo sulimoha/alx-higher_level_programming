@@ -5,10 +5,11 @@ def roman_to_int(roman_string):
                         "CM": 900, "M": 1000}
     if not roman_string.isalpha() or roman_string is None:
         return 0
+    sum = 0
     for k, v in roman_dictionary.items():
         if roman_string.upper() == k:
             return roman_dictionary[roman_string.upper()]
-    sum = 0
-    for char in roman_string.upper():
-        sum = sum + roman_dictionary[(char.upper())]
+        for char in roman_string.upper():
+            if char == k:
+                sum = sum + roman_dictionary[(char)]
     return sum
