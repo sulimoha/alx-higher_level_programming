@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-aded37b31d69.js"></script>
   
 
-  <title>alx-higher_level_programming/2-replace_in_list.py at 339346de3417c69577ecd2ef29dfe99709588711 · sulimoha/alx-higher_level_programming</title>
+  <title>alx-higher_level_programming/4-new_in_list.py at 339346de3417c69577ecd2ef29dfe99709588711 · sulimoha/alx-higher_level_programming</title>
 
 
 
     
 
-  <meta name="request-id" content="D44E:7635:2B30BCF:406A444:633392B2" data-turbo-transient="true" /><meta name="html-safe-nonce" content="f4bf51d2a87a33b1f5c79561bfb4a9e4705d18ac78eb6ab8f3d6f21f21a9d0d7" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zdWxpbW9oYS9hbHgtaGlnaGVyX2xldmVsX3Byb2dyYW1taW5nL3RyZWUvMzM5MzQ2ZGUzNDE3YzY5NTc3ZWNkMmVmMjlkZmU5OTcwOTU4ODcxMS8weDAzLXB5dGhvbi1kYXRhX3N0cnVjdHVyZXMiLCJyZXF1ZXN0X2lkIjoiRDQ0RTo3NjM1OjJCMzBCQ0Y6NDA2QTQ0NDo2MzMzOTJCMiIsInZpc2l0b3JfaWQiOiI3MjkzMDIwMjMwMjQwMTQ0NzgwIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="a192a105e012451688acc9d88447fc4471bcc662f09fddeb257b9224573d1b43" data-turbo-transient="true" />
+  <meta name="request-id" content="D44E:7635:2B330F2:406D8CF:633392FD" data-turbo-transient="true" /><meta name="html-safe-nonce" content="f4bf51d2a87a33b1f5c79561bfb4a9e4705d18ac78eb6ab8f3d6f21f21a9d0d7" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zdWxpbW9oYS9hbHgtaGlnaGVyX2xldmVsX3Byb2dyYW1taW5nL3RyZWUvMzM5MzQ2ZGUzNDE3YzY5NTc3ZWNkMmVmMjlkZmU5OTcwOTU4ODcxMS8weDAzLXB5dGhvbi1kYXRhX3N0cnVjdHVyZXMiLCJyZXF1ZXN0X2lkIjoiRDQ0RTo3NjM1OjJCMzMwRjI6NDA2RDhDRjo2MzMzOTJGRCIsInZpc2l0b3JfaWQiOiI3MjkzMDIwMjMwMjQwMTQ0NzgwIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="444e96b98b68f585dd8b5d77edf8844f7884eb36ac65141eedee46c332384d9d" data-turbo-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:538697327" data-turbo-transient>
 
@@ -111,11 +111,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/0db86d806145d407359efd35c5e5176c62fd47d31b7ca2beef6f442f4fa1dba1/sulimoha/alx-higher_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-higher_level_programming/2-replace_in_list.py at 339346de3417c69577ecd2ef29dfe99709588711 · sulimoha/alx-higher_level_programming" /><meta name="twitter:description" content="Contribute to sulimoha/alx-higher_level_programming development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/0db86d806145d407359efd35c5e5176c62fd47d31b7ca2beef6f442f4fa1dba1/sulimoha/alx-higher_level_programming" /><meta property="og:image:alt" content="Contribute to sulimoha/alx-higher_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-higher_level_programming/2-replace_in_list.py at 339346de3417c69577ecd2ef29dfe99709588711 · sulimoha/alx-higher_level_programming" /><meta property="og:url" content="https://github.com/sulimoha/alx-higher_level_programming" /><meta property="og:description" content="Contribute to sulimoha/alx-higher_level_programming development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/0db86d806145d407359efd35c5e5176c62fd47d31b7ca2beef6f442f4fa1dba1/sulimoha/alx-higher_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-higher_level_programming/4-new_in_list.py at 339346de3417c69577ecd2ef29dfe99709588711 · sulimoha/alx-higher_level_programming" /><meta name="twitter:description" content="Contribute to sulimoha/alx-higher_level_programming development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/0db86d806145d407359efd35c5e5176c62fd47d31b7ca2beef6f442f4fa1dba1/sulimoha/alx-higher_level_programming" /><meta property="og:image:alt" content="Contribute to sulimoha/alx-higher_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-higher_level_programming/4-new_in_list.py at 339346de3417c69577ecd2ef29dfe99709588711 · sulimoha/alx-higher_level_programming" /><meta property="og:url" content="https://github.com/sulimoha/alx-higher_level_programming" /><meta property="og:description" content="Contribute to sulimoha/alx-higher_level_programming development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/106798674/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDY3OTg2NzQsInMiOjk2MTExNzg5NywiYyI6MjUzMzM2ODM5NSwidCI6MTY2NDMyNDMxOH0=--088cd1a4204340eca4291129579e3399da231ee51a80989511e65e35549a2753" data-refresh-url="/_alive" data-session-id="b5a8a84268a4c77401816086cd6755ef6dd4ca25526386d821c4ff3adfba4596">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/106798674/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDY3OTg2NzQsInMiOjk2MTExNzg5NywiYyI6MTg1Mjg1MTQ2NiwidCI6MTY2NDMyNDM1N30=--8b44a7d74421f72ee512ca687cf9339423f616c76d7cabc36993a264b291efd3" data-refresh-url="/_alive" data-session-id="b5a8a84268a4c77401816086cd6755ef6dd4ca25526386d821c4ff3adfba4596">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -144,7 +144,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -235,7 +235,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="jmhWUlHu6cXg19srjnOrw2jsa5J7e7TV1_mu2yhU6Okl-Aw5P63E8YMLtIRGze__mlh3c1-VIbRQVi2eSMVwxw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="zTURZKHW_C1UuuX6LJsywKHUWutIAA3KHvOWo4AZwFJmpUsPz5XRGTdmilXkJXb8U2BGCmzumKuZXBXm4IhYfA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -435,7 +435,7 @@
     <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;sulimoha&quot;,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="6870e1c35377d6955bbeb27f724093ec23822e380d587e68eaf211401d212fe4" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;sulimoha&quot;,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="8ddea76998ae25c0f2127b5049ae391d1a283ba960d305c5cb34bb34a170826b" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -443,7 +443,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/106798674?s=40&amp;v=4" width="20" height="20" alt="@sulimoha" />
       sulimoha
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hZbkIBmGTOhgP6ZnEwa1Ix-CfUQPfmKGzReJhEnWzDujcaNOsUpYuBQacg_6kIxz_07T-q_noBGhUv5iC77gQw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vOw3vjS4oUKNPdiyot_jIB8b7Yp-JHnHC6hhoRWRyluaC3DQnHS1EvkYDNpLSdpw_9dDNN69u1Bn7RZHV_nmIw" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -480,7 +480,7 @@
 <notification-indicator
   
   class="js-socket-channel"
-  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTA2Nzk4Njc0IiwidCI6MTY2NDMyNDMxOH0=--57e57cee6f8dc128b0f750e0938c8b76423768370832ab324aab949eeb18ad67"
+  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTA2Nzk4Njc0IiwidCI6MTY2NDMyNDM1N30=--b65f3724f6061a126a925a47e6a250113b43dac43ea9e369900d36d5abfbed3f"
   data-indicator-mode="none"
   data-tooltip-global="You have unread notifications"
   data-tooltip-unavailable="Notifications are unavailable at the moment."
@@ -642,7 +642,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py
+      return-to=/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py
       user-id="106798674"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1596,7 +1596,7 @@
 
       <li>
   <div class="float-left" data-test-selector="pin-repo-button">
-    <form data-turbo="false" action="/sulimoha/alx-higher_level_programming/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4eufi_glzYxfQCHxT4FHbp9jY2NX_DQKax_3C4tmxUHCx47hhe0yrt06ZjIvRLvczJlwK-tRUfIkRGx2lxK33g" autocomplete="off" />
+    <form data-turbo="false" action="/sulimoha/alx-higher_level_programming/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vg3XDC7mguztYT53aKso_TBaVn6Xc9a38uRR48OJrHGdIcZmUy59zm8bebQIbtRPY6BFNives0-9v8qe3_3e7g" autocomplete="off" />
         <button title="Pin this repository to your profile" type="submit" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
     <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
 </svg>Pin
@@ -1615,7 +1615,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="bf0fd7b60b34c4c111c56944bc54dea5b6a0df0e4898d0e663c2d77069ab0328" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="e8bd917fcb8b7a306887ef8d6b4ef761a1f496892bb3e53a5005d395148ba1cd" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               
               
@@ -1667,7 +1667,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5JQ1J8ok7Ufam0AXcScyCImkVcCRVpooZcdV5Ugu8NUSd6ksjoA1CMBgq36aLH5yrX2k8Y93RrS2gdyFgWPFag" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="d8Gm7Cdfifk4qj7SpzfhV5UxMEhiQSrc8ml1DNY7tz2BIjrnY_tRtiJR1btMPK0tsejBeXxg9kAhL_xsH3aCgg" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="538697327">
 
@@ -1795,7 +1795,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="H-gp98cn72pL3WFXJ4xJNjB56Fg2cUxYJFfkxl_57tzpC7X8g4M3JVEmij7MhwVMFKAZaShQkMT3EW2mlrTbYw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="h0qdlzq_CRLeVXtapGEf1YETlGw0zRpIk1oz5-gMUY5xqQGcfhvRXcSukDNPalOvpcplXSrsxtRAHLqHIUFkMQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="538697327">
 
@@ -1960,13 +1960,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-72e6e5">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-13d03a">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-72e6e5"
+        id="filter-menu-13d03a"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2007,18 +2007,18 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/sulimoha/alx-higher_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mssmjqn-FK84gWUHtm7pyYIoCKju6F89V14_oJBzf18s58Fgd3M_48PsG2uGxIBxfYVnfcP7yJxgr35t5UYp6Q" autocomplete="off" />
-        <input type="hidden" value="ZGIYWwAMAssWzykzj5GQIPLcPUXZqdTa0NY6XbPw3FXSTv-13oEph-2iV1-_O_mYDXFSkPS6Q3vnJ3uQxsWK4w" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/sulimoha/alx-higher_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dHj5b1aPOIEipd-wNTh7bSDZYUGYQmo8-Jn21QeqQg_CVB6BiAITzdnIodwFkhLV33QOlLVR_Z3PaLcYcp8UuQ" autocomplete="off" />
+        <input type="hidden" value="0nQYSioMqJ1HvZZmkSokOsTK2FDxQeJfn1JeCWZCpBtkWP-k9IGD0bzQ6AqhgE2CO2e3hdxSdf6oox_EE3fyrQ" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="20d2482a4649c9b12f78e18c0e2ca8531f2fe62b5c058026430a350f263d22aa" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="d718da68ab475ff9d05379ec982e34ec6507486aa332d8b72c256f3b5852118c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/sulimoha/alx-higher_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Dm9EbkSY8m7AnP4sz5dIBsmiRHbsxaUvaAgD0XqMuhEE1MtnlIkju8S6u5q6qiV484No8fL8XgMuBX0mzlJfuA" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/sulimoha/alx-higher_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6wXin1GJPqTD-CcTb5CleG5XMKV7kycLCXx4RBY61hbhvm2WgZjvccfeYqUarcgGVHYcImWq3CdPcQazouQzvw" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="8512d74fbe9f7a615996ed5c749908f47cc9ff649c6dac8e69ac41f348d0db15" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="0e245bfc9b72e7d6a8f87c92699e6adeae4b267871f25e3829bb87509404139e" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -2036,13 +2036,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-8bef82">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-0715f4">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-8bef82"
+        id="filter-menu-0715f4"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2265,7 +2265,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2273,7 +2273,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="1fd2a94b98a877b907aa8e55f2fa348be556a9d2b062d416f60375f03e1c46b9">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="5c45472f3770adbb966171ae09a22b4b0abcaac2af2ea4f3779acef8d608398b">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2338,17 +2338,17 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/sulimoha/alx-higher_level_programming/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aOdez7g0h-dzHiClC778cWzhImBDy91lCNJo3qS5y-alu2UOPbG6Z3c8GAvIAcWQW3HLjmbizpYUFLzslUtpeg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/sulimoha/alx-higher_level_programming/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hZAgyioqBFn72yyvFmwGjDKNIP3J6HFjUMMjOrVBhZxIzBsLr6852f_5FAHV0z9tBR3JE-zBYpBMBfcIhLMnAA" />
       <input type="hidden" name="name" value="{{ refName }}">
       <input type="hidden" name="branch"  value="339346de3417c69577ecd2ef29dfe99709588711">
-      <input type="hidden" name="path_binary" value="MHgwMy1weXRob24tZGF0YV9zdHJ1Y3R1cmVzLzItcmVwbGFjZV9pbl9saXN0LnB5">
+      <input type="hidden" name="path_binary" value="MHgwMy1weXRob24tZGF0YV9zdHJ1Y3R1cmVzLzQtbmV3X2luX2xpc3QucHk=">
 
       <button
         class="SelectMenu-item wb-break-word"
         type="submit"
         role="menuitem"
         data-index="{{ index }}"
-        data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:538697327,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="e3367981d89b7cc67d2ceb4809b75c35e47326de9546a9345dcfd39a46d061dc">
+        data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:538697327,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="478568c5fbe0f4e7ba52052ccef6035b2dac976b56e7908da7d7afa62c957b16">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
@@ -2370,7 +2370,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/sulimoha/alx-higher_level_programming/blob/{{ urlEncodedRefName }}/0x03-python-data_structures/2-replace_in_list.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/sulimoha/alx-higher_level_programming/blob/{{ urlEncodedRefName }}/0x03-python-data_structures/4-new_in_list.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2410,7 +2410,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/sulimoha/alx-higher_level_programming/blob/{{ urlEncodedRefName }}/0x03-python-data_structures/2-replace_in_list.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/sulimoha/alx-higher_level_programming/blob/{{ urlEncodedRefName }}/0x03-python-data_structures/4-new_in_list.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2441,9 +2441,9 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/sulimoha/alx-higher_level_programming/tree/339346de3417c69577ecd2ef29dfe99709588711"><span>alx-higher_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/sulimoha/alx-higher_level_programming/tree/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures"><span>0x03-python-data_structures</span></a></span><span class="separator">/</span><strong class="final-path">2-replace_in_list.py</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/sulimoha/alx-higher_level_programming/tree/339346de3417c69577ecd2ef29dfe99709588711"><span>alx-higher_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/sulimoha/alx-higher_level_programming/tree/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures"><span>0x03-python-data_structures</span></a></span><span class="separator">/</span><strong class="final-path">4-new_in_list.py</strong>
       <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:538697327,&quot;ref&quot;:&quot;339346de3417c69577ecd2ef29dfe99709588711&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="06071c6e56b9c7eb946e9cb98995a66afafe2d9d4371fc9b84128738729a27de" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:538697327,&quot;ref&quot;:&quot;339346de3417c69577ecd2ef29dfe99709588711&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="7c5b27355bf525cff9cc9beea731dc787f9b9de677d756b22fed1429a1caaa45" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
     <span data-menu-button>Jump to</span>
@@ -2471,11 +2471,11 @@
         </div>
       <div class="SelectMenu-list">
         <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
-            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:538697327,&quot;ref&quot;:&quot;339346de3417c69577ecd2ef29dfe99709588711&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="9a2c6f53ead4a41b3d89e88ffb26c8927622ef87a138e05de14cde2976382011" href="/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py#L2">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:538697327,&quot;ref&quot;:&quot;339346de3417c69577ecd2ef29dfe99709588711&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="daba9d521475b276e5bca30d7b89fa59329737596f1380a440d8b1a8f1df043a" href="/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py#L2">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>replace_in_list</span>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>new_in_list</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
 </a>        </div>
       </div>
@@ -2499,7 +2499,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="f30d84e621141cbcd9bbc00cb9fafbded3ea68486d6f60591f95c561191fd56e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/sulimoha/alx-higher_level_programming/find/339346de3417c69577ecd2ef29dfe99709588711">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="e3e6b584ee3592c81a47bc5f46301339950ca292bdb0e377d8197940000096d4" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/sulimoha/alx-higher_level_programming/find/339346de3417c69577ecd2ef29dfe99709588711">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2517,13 +2517,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x03-python-data_structures/2-replace_in_list.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x03-python-data_structures/4-new_in_list.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2555,7 +2555,7 @@
     <include-fragment src="/sulimoha/alx-higher_level_programming/spoofed_commit_check/339346de3417c69577ecd2ef29dfe99709588711" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/sulimoha/alx-higher_level_programming/contributors/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py" class="commit-loader">
+  <include-fragment src="/sulimoha/alx-higher_level_programming/contributors/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2589,23 +2589,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      8 lines (8 sloc)
+      9 lines (9 sloc)
       <span class="file-info-divider"></span>
-    201 Bytes
+    234 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a href="/sulimoha/alx-higher_level_programming/raw/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Raw
-</a>          <a href="/sulimoha/alx-higher_level_programming/blame/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">    Blame
+        <a href="/sulimoha/alx-higher_level_programming/raw/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Raw
+</a>          <a href="/sulimoha/alx-higher_level_programming/blame/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sulimoha/alx-higher_level_programming/edit/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8M-0vXjilGIXbjG-A1oxfeylKtCXGvDW4rjR6yaxtF4W52wyWbucW0omtkVw58cR3Ky0sVeBca1leAW6JIiRHQ" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sulimoha/alx-higher_level_programming/edit/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lvfgLPBcomdJQQknl-0TeIAeXBP26YyGbN50SL1ZZKBcpJ_PHQA-CfbK8AjOzdqaMc9fG5MTExMcIUGYKT3dIw" autocomplete="off" />
       <button disabled="disabled" title="You must be on a branch to make or propose changes to this file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2615,7 +2615,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sulimoha/alx-higher_level_programming/edit/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sLGmq6B2VE_-uF4Ooy2rCLT8EcKb8nYkHmRQTTS-YtJWmX4kgS9cdqPw2fXQkF1khPWPo1tp91-ZpIQcNodHkQ" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sulimoha/alx-higher_level_programming/edit/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2roUGRDmV3yGo5cmPynIrW0JXfDyNtPfQYR7SZaRgZkQ6Wv6_brLEjkobglmCQFP3Nhe-JfMTEoxe06ZAvU4Gg" autocomplete="off" />
               <button disabled="disabled" title="You must be on a branch to make or propose changes to this file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2633,10 +2633,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/sulimoha/alx-higher_level_programming/raw/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/sulimoha/alx-higher_level_programming/raw/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="0bafb6b898fc1d0abd5b52aa11efa3bec1cc9e615077229113a774b924039d20" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="483da4d461900a2d72737c69aa66f7cf6e195f788a1e632fd8efdd8f14536bf1" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2688,15 +2688,15 @@
             <li>
             </li>
           <li>
-            <a class="dropdown-item" href="/sulimoha/alx-higher_level_programming/raw/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py">
+            <a class="dropdown-item" href="/sulimoha/alx-higher_level_programming/raw/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/sulimoha/alx-higher_level_programming/raw/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/sulimoha/alx-higher_level_programming/raw/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="0bafb6b898fc1d0abd5b52aa11efa3bec1cc9e615077229113a774b924039d20">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:538697327,&quot;originating_url&quot;:&quot;https://github.com/sulimoha/alx-higher_level_programming/blob/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py&quot;,&quot;user_id&quot;:106798674}}" data-hydro-click-hmac="483da4d461900a2d72737c69aa66f7cf6e195f788a1e632fd8efdd8f14536bf1">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2719,7 +2719,7 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/sulimoha/alx-higher_level_programming/blame/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py">
+              <a class="dropdown-item" href="/sulimoha/alx-higher_level_programming/blame/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py">
                 View blame
               </a>
             </li>
@@ -2759,38 +2759,42 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="0x03-python-data_structures/2-replace_in_list.py">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="0x03-python-data_structures/4-new_in_list.py">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
           <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c>#!/usr/bin/python3</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>replace_in_list</span>(<span class=pl-s1>my_list</span>, <span class=pl-s1>idx</span>, <span class=pl-s1>element</span>):</td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>def</span> <span class=pl-en>new_in_list</span>(<span class=pl-s1>my_list</span>, <span class=pl-s1>idx</span>, <span class=pl-s1>element</span>):</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>idx</span> <span class=pl-c1>&lt;</span> <span class=pl-c1>0</span>:</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>copy_list</span> <span class=pl-c1>=</span> <span class=pl-s1>my_list</span>.<span class=pl-en>copy</span>()</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>my_list</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>idx</span> <span class=pl-c1>&lt;</span> <span class=pl-c1>0</span>:</td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>idx</span> <span class=pl-c1>&gt;=</span> <span class=pl-en>len</span>(<span class=pl-s1>my_list</span>):</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>copy_list</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>my_list</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-s1>idx</span> <span class=pl-c1>&gt;=</span> <span class=pl-en>len</span>(<span class=pl-s1>my_list</span>):</td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>my_list</span>[<span class=pl-s1>idx</span>] <span class=pl-c1>=</span> <span class=pl-s1>element</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>copy_list</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> (<span class=pl-s1>my_list</span>)</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>copy_list</span>[<span class=pl-s1>idx</span>] <span class=pl-c1>=</span> <span class=pl-s1>element</span></td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-s1>copy_list</span></td>
         </tr>
   </table>
 </div>
@@ -2816,7 +2820,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sulimoha/alx-higher_level_programming/blame/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/2-replace_in_list.py">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/sulimoha/alx-higher_level_programming/blame/339346de3417c69577ecd2ef29dfe99709588711/0x03-python-data_structures/4-new_in_list.py">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/sulimoha/alx-higher_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
