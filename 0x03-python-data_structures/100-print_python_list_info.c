@@ -5,8 +5,8 @@ void print_python_list_info(PyObject *p)
 {
 	int i = 0;
 	int len_list = 0;
-	Pyobject *element;
-	PylistObject *clone = (PyListObject *) p;
+	PyObject *element;
+	PyListObject *clone = (PyListObject *) p;
 
 	len_list = Py_SIZE(p);
 	printf("[*] size of the python List = %d\n", len_list);
