@@ -1,4 +1,7 @@
-#include "python.h"
+#include "/usr/include/python3.4/python.h"
+#include "/usr/include/python3.4/listobject.h"
+#include "/usr/include/python3.4/object.h"
+#include <stdio.h>
 
 void print_python_list_info(PyObject *p)
 {
