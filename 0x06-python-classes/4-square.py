@@ -12,12 +12,12 @@ class Square:
             raise ValueError("size must be >= 0")
         else:
             self.__size = size
-    
+
     @property
     def size(self):
         """size getter"""
         return self.__size
-           
+
     @size.setter
     def size(self, value):
         """size setter"""
